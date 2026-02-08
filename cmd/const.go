@@ -4,3 +4,4 @@
 package cmd
 
 const FlagEnvironment = "environment"
+const FlagFile = "file"
