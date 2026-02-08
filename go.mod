@@ -5,6 +5,7 @@ go 1.25.6
 require (
 	github.com/caarlos0/go-version v0.2.2
 	github.com/charmbracelet/fang v0.4.4
+	github.com/hugginsio/modeline v0.1.0
 	github.com/spf13/cobra v1.10.2
 )
 
